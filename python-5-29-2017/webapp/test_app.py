@@ -1,11 +1,8 @@
 #!/usr/bin/env python
-# =============================================================================
-# File Name:     test_app.py
-# Author:        Evan Pete Walsh
-# Contact:       epwalsh10@gmail.com
-# Creation Date: 2017-04-11
-# Last Modified: 2017-04-11 17:41:08
-# =============================================================================
+
+from __future__ import absolute_import
+from __future__ import division
+from __future__ import print_function
 
 import requests
 

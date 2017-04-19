@@ -1,4 +1,6 @@
-![](./img/poster.png)
+<img src="./img/poster.png" width="400">
+
+A corresponding tutorial can be found at [https://epwalsh.com/2017-04-10-pandas-data-wrangling/](https://epwalsh.com/2017-04-10-pandas-data-wrangling/).
 
 
 ## Python installation instructions
@@ -21,10 +23,11 @@ Now we can actually start installing some important Python modules:
 
 ```bash
 pip install numpy
+pip install scipy
+pip install matplotlib
 pip install ipython
 pip install jupyter
 pip install pandas
-pip install scipy
 ```
 
 
